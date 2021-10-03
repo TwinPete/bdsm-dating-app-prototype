@@ -7,3 +7,9 @@
 html {
     font-size: 10px;
 }
+
+.header {
+    background-color: red;
+    display: grid;
+    place-items: center;
+}
