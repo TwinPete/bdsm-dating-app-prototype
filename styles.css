@@ -8,12 +8,12 @@ html {
     font-size: 10px;
 }
 
-
-.content {
-    display: flex;
-}
 .header {
     background-color: red;
     display: grid;
     place-items: center;
+}
+
+.content {
+    margin: 10px;
 }
